@@ -12,6 +12,7 @@ Warning:
 Failure to exceed previous high - early warning of trend reversal.
 Any downside violation of a prior low is usually a confirmation that a trend reversal has in fact taken place
 
+Between the trough and peaks, market oscillate and there are support and resistance to decide the direction. 
 
 2. Downtrend:
 A downtrend is just a mirror image of an uptrend and is char- acterized by a series of declining peaks and troughs. The ability of a price to hold above a previous low point followed by an upside penetration of a prior high point is necessary to signal a reversal of the preceding downtrend.
