@@ -8,7 +8,9 @@ Three type of trends:
 
 1. Uptrend:
 An uptrend is most often rep- resented by a series of rising peaks (highs) and troughs (lows). As long as each succeeding peak is higher than the prior peak, and as long as each successive trough is higher than the preceding trough, the uptrend remains intact.
-Warning: Failure to exceed previous high - early warning of trend reversal.
+Warning: 
+Failure to exceed previous high - early warning of trend reversal.
+Any downside violation of a prior low is usually a confirmation that a trend reversal has in fact taken place
 
 
 2.
