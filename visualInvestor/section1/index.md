@@ -29,5 +29,20 @@ Trendline:
    - wait for inversion on long chart.
   
   
-  
+Case 1: Nifty IT
+- long term - positive
+- short term positive 
+Strategy: 
+buy at 20824 and 18977 but not if it is falling continuously. only if it shop there and sustain.
+sell at 17214
+
+
+Case 2: Nifty
+- long term - positive
+- short term - positive
+Strategy:
+buy at 13000
+sell at 12174
+
+
   
