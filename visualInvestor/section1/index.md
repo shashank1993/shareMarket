@@ -17,3 +17,17 @@ Trendline:
 2. GOLDSHARE
     * 4399 was earlier a strong resistance now a strong support.
     If it moves to 4600 it will be trend reversal from bearish to bullish or if it breaks 4399 decisively down then it will be bearish trend.  
+
+
+
+* if long term positive
+  - if short term positive then wait for below trendline to buy. 
+  - if short term retracement not pattern then buy at retracement. sell at inversion pattern or more than 62% inversion.
+  - if short term correction then wait for inversion pattern
+  
+* if long term negative
+   - wait for inversion on long chart.
+  
+  
+  
+  
