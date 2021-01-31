@@ -42,7 +42,7 @@ Case 2: Nifty
 - short term - positive
 Strategy:
 buy at 13000
-sell at 12174
+sell at 12580
 
 
   
