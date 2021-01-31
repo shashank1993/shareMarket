@@ -2,6 +2,7 @@ Steps:
 
 1. Draw trendline long term and short term or the rising peaks and toughs.
 2. If it is following the up trend in long term for 5 years then search for opportunity in short term - trendline and fibonacci retracement
+    * if it is only retracement not only reverse pattern then buy and sale when reverse pattern happens.
 3. If it is not following trend check the sign of resistance and support and if it is downtrend and reversing.
    if it is uptrend then continuation trend. correlate with volume trend.
    
