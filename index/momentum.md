@@ -14,7 +14,7 @@ Top constituents by weightage
 | HCL Technologies Ltd. |4.65%|
 
 
- 
+https://www.niftyindices.com/Factsheet/Factsheet_Nifty200_Momentum30.pdf
  
  
  
